@@ -32,7 +32,6 @@ class Solution:
 
 
 if __name__ == '__main__':
-    print('eeee'.count('e'))
     A = ["amazon", "apple", "facebook", "google", "leetcode"]
     B = ["e", "o"]
     print(Solution().wordSubsets(A=A, B=B))
